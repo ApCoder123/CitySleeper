@@ -1,0 +1,15 @@
+{
+"gender": "$input.params('gender')",
+"age": "$input.params('age')",
+"hoursSlept": "$input.params('hoursSlept')",
+"sleepPos": "$input.params('sleepPos')",
+"coffee": "$input.params('coffee')",
+"city": "$input.params('city')",
+"fallAsleepTime": "$input.params('fallAsleepTime')",
+"drink": "$input.params('drink')",
+"eat": "$input.params('eat')",
+"screen": "$input.params('screen')",
+"isolated": "$input.params('isolated')",
+"emotional": "$input.params('emotional')",
+"exercise": "$input.params('exercise')"
+}
